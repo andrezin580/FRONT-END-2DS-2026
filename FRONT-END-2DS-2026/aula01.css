@@ -36,3 +36,10 @@ img {
 
 
 }
+.teste {
+    width: 70%;
+    height: 70%;
+    border: 1px solid black;
+    display: flex;
+    align-items: flex-start;
+}
